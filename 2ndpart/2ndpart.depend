@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1593885228 source:c:\users\kavprabath\desktop\2ndpart\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594396210 source:c:\users\kavprabath\desktop\ca_assignment\2ndpart\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
