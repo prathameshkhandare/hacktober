@@ -1,0 +1,40 @@
+ The current time : Fri Jul 10 21:54:48 2020
+	The count = 1 Number :159's Square Value is : 25281 	
+ The current time : Fri Jul 10 21:54:50 2020
+	The count = 2 Number :357's Square Value is : 127449 	
+ The current time : Fri Jul 10 21:54:52 2020
+	The count = 3 Number :654's Square Value is : 427716 	
+ The current time : Fri Jul 10 21:54:54 2020
+	The count = 4 Number :2583's Square Value is : 6671889 	
+ The current time : Fri Jul 10 21:54:57 2020
+	The count = 5 Number :3's Square Value is : 9 	
+ The current time : Fri Jul 10 21:54:58 2020
+	The count = 6 Number :2's Square Value is : 4 	
+ The current time : Fri Jul 10 21:54:58 2020
+	The count = 7 Number :56's Square Value is : 3136 	
+ The current time : Fri Jul 10 21:54:59 2020
+	The count = 8 Number :46's Square Value is : 2116 	
+ The current time : Fri Jul 10 21:55:01 2020
+	The count = 9 Number :74's Square Value is : 5476 	
+ The current time : Fri Jul 10 21:55:01 2020
+	The count = 10 Number :85's Square Value is : 7225 	
+ The current time : Fri Jul 10 21:55:02 2020
+	The count = 11 Number :1's Square Value is : 1 	
+ The current time : Fri Jul 10 21:55:03 2020
+	The count = 12 Number :47's Square Value is : 2209 	
+ The current time : Fri Jul 10 21:55:05 2020
+	The count = 13 Number :456's Square Value is : 207936 	
+ The current time : Fri Jul 10 21:55:06 2020
+	The count = 14 Number :147's Square Value is : 21609 	
+ The current time : Fri Jul 10 21:55:08 2020
+	The count = 15 Number :852's Square Value is : 725904 	
+ The current time : Fri Jul 10 21:55:10 2020
+	The count = 16 Number :751's Square Value is : 564001 	
+ The current time : Fri Jul 10 21:55:12 2020
+	The count = 17 Number :157's Square Value is : 24649 	
+ The current time : Fri Jul 10 21:55:13 2020
+	The count = 18 Number :953's Square Value is : 908209 	
+ The current time : Fri Jul 10 21:55:16 2020
+	The count = 19 Number :967's Square Value is : 935089 	
+ The current time : Fri Jul 10 21:55:19 2020
+	The count = 20 Number :99's Square Value is : 9801 	
